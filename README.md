@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/abrarkhalidofficial/">
   <img align="left" alt="Abrar's LinkdeIN" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
-<a href="https://t.me/+923454138331">
-  <img align="left" alt="Abrar's Telegram" width="22px" src="https://www.svgrepo.com/show/349527/telegram.svg" />
-</a>
+
 <a href="https://www.instagram.com/abrarkhalidofficial/">
   <img align="left" alt="Abrar's Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
