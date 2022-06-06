@@ -5,6 +5,9 @@
 <a href="https://twitter.com/mianabrarkhalid">
   <img align="left" alt="Abrar's Twitter" width="22px" src="https://www.svgrepo.com/show/49959/twitter.svg" />
 </a>
+<a href="https://twitter.com/mianabrarkhalid">
+  <img align="left" alt="Abrar's Twitter" width="22px" src="file:///C:/Users/pc/Downloads/whatsapp-svgrepo-com.svg" />
+</a>
 <a href="https://www.linkedin.com/in/abrarkhalidofficial/">
   <img align="left" alt="Abrar's LinkdeIN" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
